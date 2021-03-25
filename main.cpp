@@ -27,7 +27,6 @@ int main() {
     }
 
     cout << "Approximate value for pi is: " << 1.0 * inCircle / (1.0 * n) * 4 << '\n';
-    /// added comment
 
     return 0;
 }
